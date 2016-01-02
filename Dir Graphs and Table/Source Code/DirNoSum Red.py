@@ -5,6 +5,8 @@ Created on Mon Jun 29 10:11:50 2015
 @author: Greg
 """
 
+"""Produces graphs of the directional fluxes data."""
+
 import os
 import scipy
 import matplotlib.pyplot as plt
